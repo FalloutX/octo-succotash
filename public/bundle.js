@@ -21626,7 +21626,7 @@
 	      _react2.default.createElement(
 	        'h2',
 	        null,
-	        'App Root Component'
+	        'Octo Succo Tash'
 	      ),
 	      _react2.default.createElement(_StocksForm2.default, {
 	        givenSymbols: this.state.givenSymbols,
