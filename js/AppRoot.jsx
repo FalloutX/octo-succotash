@@ -91,7 +91,7 @@ const AppRoot = React.createClass({
   render () {
     return (
       <div id="app-root-component">
-        <h2>App Root Component</h2>
+        <h2>Octo Succo Tash</h2>
         <StocksForm
           givenSymbols={this.state.givenSymbols}
           selectedSymbols={this.state.selectedSymbols}
